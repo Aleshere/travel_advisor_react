@@ -1,3 +1,25 @@
+# Interactive map showing restaurants, hotels and attractions as you move it.  
+## Filtering - Search suggestions - Pins on map - Weather forecast in area.   
+
+# What I used
+> react jsx    
+> material UI      
+> react hooks (state & effect)      
+> tripAdvisor api       
+> google maps api    
+> rapid api       
+> error handling via try - catch    
+> filtering  
+> search and autocomplete      
+> netlify deployment via github repo    
+      
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
